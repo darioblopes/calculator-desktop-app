@@ -3,7 +3,7 @@
 # Usage
 - `git clone https://github.com/darioblopes/calculator-desktop-app.git`
 - `cd src/`
-- `javac javac Calculator.java`
+- `javac Calculator.java`
 - `java Calculator`
 # Preview
 ![Alt Text](img/snip-of-calc.png)

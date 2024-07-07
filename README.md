@@ -5,3 +5,5 @@
 - `cd src/`
 - `javac javac Calculator.java`
 - `java Calculator`
+# Preview
+![Alt Text](img/snip-of-calc.png)
